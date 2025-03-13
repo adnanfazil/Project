@@ -588,7 +588,7 @@ console.log(manCity);
 
 
 console.log("Tutorial");
-
+ console.log("Tutorial2");
 
 
 
