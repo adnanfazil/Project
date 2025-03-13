@@ -587,6 +587,9 @@ console.log(manCity);
 // let highestRatingPlayer = null;
 
 
+console.log("Tutorial");
+
+
 
 
 
